@@ -22,7 +22,6 @@ const Grid = styled.div`
 const Cabeza = styled.header`
   position: relative;
   background-image: url(${ardilla});
-  background-image: url(/src/img/ardilla.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
